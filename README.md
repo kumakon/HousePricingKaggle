@@ -5,4 +5,9 @@ pip install uv
 uv add marimo  
 uv run marimo edit bringit.py  
 
-should run correctly i guess
+should run correctly i guess  
+
+
+
+scored 0.13077 with XGB submission  
+scored 0.14550 with RFC submission
